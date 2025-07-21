@@ -1,0 +1,3 @@
+[submodule "Dockerfiles"]
+	path = Dockerfiles
+	url = git@github.com:masahiro-kubota/Dockerfiles.git
